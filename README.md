@@ -10,7 +10,7 @@
 
 - Azure DevOps provides several tools you can use for better team collaboration. It also has tools for automated build processes, testing, version control, and package management by Using the Azure Cloud Services.
 
-# Azure-Practices-Examples
+# Azure-DevOps-Practice-Example
 
 In this repository,  You will get an Idea about Different Practical Implementation of Azure Services
 
