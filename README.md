@@ -14,7 +14,7 @@
 
 In this repository,  You will get an Idea about Different Practical Implementation of Azure Services
 
-- Example: 01 - **Working with GitHub Advanced Security for Azure DevOps**
+- Example: 01 - **Working with GitHub Advanced Security for Azure DevOps.**
 
 # Contributing
 
