@@ -1,4 +1,4 @@
-# Working with GitHub Advanced Security for Azure DevOps
+# Working with GitHub Advanced Security for Azure DevOps.
 
 # Overview
 
