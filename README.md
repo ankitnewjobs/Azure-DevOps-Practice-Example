@@ -12,7 +12,7 @@
 
 # Azure-DevOps-Practice-Example
 
-In this repository,  You will get an Idea about Different Practical Implementation of Azure Services.
+In this repository,  you will get an idea of different practical implementations of Azure Services.
 
 - Example: 01 - **Working with GitHub Advanced Security for Azure DevOps.**
 
